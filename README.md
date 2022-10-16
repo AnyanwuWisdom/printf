@@ -1,2 +1,2 @@
-This is a collaboration project between Wisdom and Freda in creating our printf function
+This is a collaboration project between Wisdom and Freda in creating our printf function Project
 
